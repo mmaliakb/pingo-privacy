@@ -47,4 +47,4 @@ If a future version of the app ever changes how data is handled, this policy wil
 
 If you have any questions about this policy, contact us at:
 
-**Email:** cetin@ak-vit.com.tr
+**Email:** mmaliakb@gmail.com
